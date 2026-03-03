@@ -35,21 +35,19 @@ To design, implement, and evaluate a 2-DOF pan and tilt robotic system capable o
 - Integrate two servo motors for independent pan and tilt control.
 - Implement serial-based real-time control using Arduino Uno.
 - Map Cartesian input values safely to servo angles.
-  
-<img width="324" height="331" alt="pan and tilt chassis" src="https://github.com/user-attachments/assets/8ef6fde6-06d5-46b0-9419-7823064f3c17" />
 
 
 ---
 
 ## System Architecture
 
-<img width="305" height="188" alt="schematic diagram" src="https://github.com/user-attachments/assets/eb0f9cf9-d2a0-45d5-96fe-e34f11b0afbe" />
+<img width="410" height="244" alt="schematic diagram" src="https://github.com/user-attachments/assets/eb0f9cf9-d2a0-45d5-96fe-e34f11b0afbe" />
 
 
 
 ### Functional Flow
 
-<img width="300" height="80" alt="Screenshot 2026-03-03 at 03 48 12" src="https://github.com/user-attachments/assets/818a93d6-3243-41e3-b310-356d9bc86754" />
+<img width="450" height="120" alt="Screenshot 2026-03-03 at 03 48 12" src="https://github.com/user-attachments/assets/818a93d6-3243-41e3-b310-356d9bc86754" />
 
 
 ---
